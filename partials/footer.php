@@ -2,17 +2,17 @@
         <footer class="piedepag row">
           <article class="sucursales col-12 col-md-4 __artpie">
             <h4>PRODUCTOS</h4>
-            <p>Raquetas</p>
+            <p><a href="../raquetas.pgp">Raquetas</a></p>
             <p>Pelotas</p>
-            <p>Cuerdas</p>
-            <p>Bolsos</p>
-            <p>Accesorios</p>
+            <p><a href="cuerdas.php">Cuerdas</a></p>
+            <p><a href="bolsos.php">Bolsos</a></p>
+            <p><a href="accesorios.php">Accesorios</a></p>
             <p>Promociones</p>
           </article>
 
           <article class="sucursales col-12 col-md-4 __artpie">
             <h4>AYUDA</h4>
-            <p>Iniciar sesión</p>
+            <p><a href="login.php"></a>Iniciar sesión</p>
             <p>Crear cuenta</p>
             <br>
             <h4>Contacto</h4>
@@ -21,7 +21,7 @@
           </article>
 
           <article class="sucursales col-12 col-md-4 __artpie">
-            <h4>CONOCENOS</h4>
+            <h4><a href="faq.php">CONOCENOS</a></h4>
             <p>Contactanos</p>
             <p>Nuestras políticas</p>
             <p>Noticias</p>

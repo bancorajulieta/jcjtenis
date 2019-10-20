@@ -15,10 +15,35 @@
 
               <div class="col-12 col-md-6 col-lg-4 text-center my-4">
                 <div class="card" style="width: 18rem;">
-                  <img src="https://surtenis.cl/wp-content/uploads/2019/03/Babolat-Pure-Aero-300g.jpg"class="card-img-top" alt="Babolatraquect">
+                  <img src="https://www.tennisplaza.com/prodimages/27735-DEFAULT-m.jpg"class="card-img-top" alt="Babolatraquect">
                   <div class="card-body">
-                    <p class="card-text">BABOLAT</p>
-                    <h5 class="card-title">Pure Aero</h5>
+                    <p class="card-text">HEAD</p>
+                    <h5 class="card-title">Graphene 360 Speed X </h5>
+
+                    <div class="container">
+                      <div class="row">
+
+                        <div class="col-12">
+                          <p>$ 13.999</p>
+                        </div>
+
+                        <div class="col-12">
+                          <a href="#" class="btn btn-primary">Agregar al Carrito</a>
+                        </div>
+
+                      </div>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-12 col-md-6 col-lg-4 text-center my-4">
+                <div class="card" style="width: 18rem;">
+                  <img src="https://www.tennisplaza.com/prodimages/24167-DEFAULT-m.jpg"class="card-img-top" alt="Babolatraquect">
+                  <div class="card-body">
+                    <p class="card-text">HEAD</p>
+                    <h5 class="card-title">Graphene 360 Speed Pro</h5>
 
                     <div class="container">
                       <div class="row">
@@ -40,10 +65,10 @@
 
               <div class="col-12 col-md-6 col-lg-4 text-center my-4">
                 <div class="card" style="width: 18rem;">
-                  <img src="https://surtenis.cl/wp-content/uploads/2019/03/Babolat-Pure-Aero-300g.jpg"class="card-img-top" alt="Babolatraquect">
+                  <img src="https://www.tennisplaza.com/prodimages/24167-DEFAULT-m.jpg"class="card-img-top" alt="Babolatraquect">
                   <div class="card-body">
-                    <p class="card-text">BABOLAT</p>
-                    <h5 class="card-title">Pure Aero Plus</h5>
+                    <p class="card-text">HEAD</p>
+                    <h5 class="card-title">Graphene 360 Speed MP</h5>
 
                     <div class="container">
                       <div class="row">
@@ -61,15 +86,14 @@
 
                   </div>
                 </div>
-
               </div>
 
               <div class="col-12 col-md-6 col-lg-4 text-center my-4">
                 <div class="card" style="width: 18rem;">
-                  <img src="https://images-na.ssl-images-amazon.com/images/I/61C6xTH9-oL._SL1001_.jpg"class="card-img-top" alt="Babolatraquect">
+                  <img src="https://www.tennisplaza.com/prodimages/27356-DEFAULT-m.jpg"class="card-img-top" alt="Babolatraquect">
                   <div class="card-body">
-                    <p class="card-text">BABOLAT</p>
-                    <h5 class="card-title">Pure Drive</h5>
+                    <p class="card-text">HEAD</p>
+                    <h5 class="card-title">Graphene 360+ Gravity PRO</h5>
 
                     <div class="container">
                       <div class="row">
@@ -84,46 +108,21 @@
 
                       </div>
                     </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-12 col-md-6 col-lg-4 text-center my-4">
-                <div class="card" style="width: 18rem;">
-                  <img src="https://images-na.ssl-images-amazon.com/images/I/61C6xTH9-oL._SL1001_.jpg"class="card-img-top" alt="Babolatraquect">
-                  <div class="card-body">
-                    <p class="card-text">BABOLAT</p>
-                    <h5 class="card-title">Pure Drive Plus</h5>
-
-                    <div class="container">
-                      <div class="row">
-
-                        <div class="col-12">
-                          <p>$ 13.000</p>
-                        </div>
-
-
-                        <div class="col-12">
-                          <a href="carrito.php" class="btn btn-primary">Agregar al Carrito</a>
-                        </div>
-
-                      </div>
-                    </div>
 
                   </div>
                 </div>
               </div>
 
+
               <div class="col-12 col-md-6 col-lg-4 text-center my-4">
                 <div class="card" style="width: 18rem;">
-                  <img src="https://images-na.ssl-images-amazon.com/images/I/51hIeA7NWrL._SL1001_.jpg"class="card-img-top" alt="Babolatraquect">
+                  <img src="https://www.tennisplaza.com/prodimages/27356-DEFAULT-m.jpg"class="card-img-top" alt="Babolatraquect">
                   <div class="card-body">
-                    <p class="card-text">BABOLAT</p>
-                    <h5 class="card-title">Pure Strike</h5>
+                    <p class="card-text">HEAD</p>
+                    <h5 class="card-title">Graphene 360+ Gravity MP</h5>
 
                     <div class="container">
                       <div class="row">
-
 
                         <div class="col-12">
                           <p>$ 13.000</p>
@@ -142,10 +141,10 @@
 
               <div class="col-12 col-md-6 col-lg-4 text-center my-4">
                 <div class="card" style="width: 18rem;">
-                  <img src="https://images-na.ssl-images-amazon.com/images/I/51ATU1oKy5L._SL1001_.jpg"class="card-img-top" alt="Babolatraquect">
+                  <img src="https://www.tennisplaza.com/prodimages/27356-DEFAULT-m.jpg"class="card-img-top" alt="Babolatraquect">
                   <div class="card-body">
-                    <p class="card-text">BABOLAT</p>
-                    <h5 class="card-title">Pure Control</h5>
+                    <p class="card-text">HEAD</p>
+                    <h5 class="card-title">Graphene 360+ Gravity S</h5>
 
                     <div class="container">
                       <div class="row">
@@ -171,10 +170,9 @@
 
         <div id="spacer">
         </div>
-        <?php include_once('../partials/footer.php');?>
+        <?php include_once('partials/footer.php');?>
       </div>
     </div>
-
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

@@ -14,6 +14,7 @@
             <div class="row">
 
               <div class="col-12 col-md-6 col-lg-4 text-center my-4">
+
                 <div class="card" style="width: 18rem;">
                   <img src="https://surtenis.cl/wp-content/uploads/2019/03/Babolat-Pure-Aero-300g.jpg"class="card-img-top" alt="Babolatraquect">
                   <div class="card-body">
@@ -28,7 +29,7 @@
                         </div>
 
                         <div class="col-12">
-                          <a href="#" class="btn btn-primary">Agregar al Carrito</a>
+                          <a href="carrito.php" class="btn btn-primary">Agregar al Carrito</a>
                         </div>
 
                       </div>
@@ -53,7 +54,7 @@
                         </div>
 
                         <div class="col-12">
-                          <a href="#" class="btn btn-primary">Agregar al Carrito</a>
+                          <a href="carrito.php" class="btn btn-primary">Agregar al Carrito</a>
                         </div>
 
                       </div>
@@ -79,7 +80,7 @@
                         </div>
 
                         <div class="col-12">
-                          <a href="#" class="btn btn-primary">Agregar al Carrito</a>
+                          <a href="carrito.php" class="btn btn-primary">Agregar al Carrito</a>
                         </div>
 
                       </div>
@@ -130,7 +131,7 @@
                         </div>
 
                         <div class="col-12">
-                          <a href="#" class="btn btn-primary">Agregar al Carrito</a>
+                          <a href="carrito.php" class="btn btn-primary">Agregar al Carrito</a>
                         </div>
 
                       </div>
@@ -155,7 +156,7 @@
                         </div>
 
                         <div class="col-12">
-                          <a href="#" class="btn btn-primary">Agregar al Carrito</a>
+                          <a href="carrito.php" class="btn btn-primary">Agregar al Carrito</a>
                         </div>
 
                       </div>
@@ -171,7 +172,7 @@
 
         <div id="spacer">
         </div>
-        <?php include_once('partials/footer.php');?>
+        <?php include_once('../partials/footer.php');?>
       </div>
     </div>
 

@@ -27,10 +27,12 @@
 
       </div>
       <div class="row">
+
         <div class="col-sm-4 hidden-xs">
           <img src="https://images-na.ssl-images-amazon.com/images/I/61C6xTH9-oL._SL1001_.jpg" alt="Pure Drive Plus" class="img-fluid "/>
         </div>
-        <div class="col-sm-8">
+
+        <div class="col-sm-8 bg-white">
 
           <p class="mb-0">#2838474</p>
           <h3 class="nomargin text-uppercase">Babolat</h3>

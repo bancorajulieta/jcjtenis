@@ -18,15 +18,15 @@
   <div class="collapse navbar-collapse flex-grow-1 text-right" id="myNavbar7">
       <ul class="navbar-nav ml-auto flex-nowrap __navbar">
           <li class="nav-item dropdown pr-0">
-            <a class="nav-link dropdown-toggle" href="php/raquetas.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="raquetas.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             Raquetas
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="php-otras/raquetas-babolat.php">Babolat</a>
+              <a class="dropdown-item" href="raquetas-babolat.php">Babolat</a>
               <a class="dropdown-item" href="raquetas-tecnifibre.php">Tecnifibre</a>
-              <a class="dropdown-item" href="#">Head</a>
-              <a class="dropdown-item" href="#">Wilson</a>
-              <a class="dropdown-item" href="#">Yonex</a>
+              <a class="dropdown-item" href="raquetas-head.php">Head</a>
+              <a class="dropdown-item" href="raquetas.php">Wilson</a>
+              <a class="dropdown-item" href="raquetas.php">Yonex</a>
             </div>
           </li>
 
@@ -45,9 +45,9 @@
             Cuerdas
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Luxilon</a>
-            <a class="dropdown-item" href="#">Kirschbaum</a>
-            <a class="dropdown-item" href="#">Solinco</a>
+            <a class="dropdown-item" href="cuerdas.php">Luxilon</a>
+            <a class="dropdown-item" href="cuerdas.php">Kirschbaum</a>
+            <a class="dropdown-item" href="cuerdas.php">Solinco</a>
           </li>
 
           <li class="nav-item dropdown pr-0">
@@ -56,13 +56,13 @@
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="bolsos-babolat.php">Babolat</a>
-            <a class="dropdown-item" href="#">Head</a>
-            <a class="dropdown-item" href="#">Tecnifibre</a>
-            <a class="dropdown-item" href="#">Wilson</a>
-            <a class="dropdown-item" href="#">Yonex</a>
+            <a class="dropdown-item" href="bolsos.php">Head</a>
+            <a class="dropdown-item" href="bolsos.php">Tecnifibre</a>
+            <a class="dropdown-item" href="bolsos.php">Wilson</a>
+            <a class="dropdown-item" href="bolsos.php">Yonex</a>
           </li>
           <li class="nav-item">
-           <a class="nav-link" href="accesorios.html">Accesorios</a>
+           <a class="nav-link" href="accesorios.php">Accesorios</a>
          </li>
 
         <div id="products">
